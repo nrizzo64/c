@@ -1,0 +1,22 @@
+'-' is a white space
+
+1.
+	(a) '----86,1040'
+	(b) '--3.0250e+01'
+	(c) '83.1620'
+	(d) '1e-06'
+
+2.
+	printf("%-8.1e", x);
+	printf("%10.6e", x);
+	printf("%-8.3f", x);
+	printf("%6.0f", x);
+
+3.	(a) They wouldn't be equivalent.  They can be distinguished by a white space in front of the integer
+	(b) Same thing for this one as in (a)
+	(c) differentiated by whitespaces?
+	
+4.	i = 10
+	x = 0.3
+	j = 5
+
